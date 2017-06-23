@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: Yangjing
+Build-Jdk: 1.7.0_40
+Created-By: Maven Integration for Eclipse
+Premain-Class: monitor.agent.MyAgent
+Can-Redefine-Classes: true
+Boot-Class-Path: Boot-Class-Path: javassist.3.12.0.GA.jar
+
+
+
+
+

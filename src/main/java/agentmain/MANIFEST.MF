@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Yangjing
+Build-Jdk: 1.7.0_40
+Agent-Class: agentmain.AgentMain
+Can-Retransform-Classes: true
+
+
+
+
+
